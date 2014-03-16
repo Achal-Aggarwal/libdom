@@ -28,7 +28,7 @@ HTMLDirectoryElement	html_directory_element		MISSING
 HTMLMenuElement		html_menu_element		MISSING
 HTMLLIElement		html_li_element			MISSING
 HTMLBlockquoteElement	html_blockquote_element		MISSING
-HTMLDivElement		html_div_element		MISSING
+HTMLDivElement		html_div_element		DONE
 HTMLParagraphElement	html_paragraph_element		MISSING
 HTMLHeadingElement	html_heading_element		MISSING
 HTMLQuoteElement	html_quote_element		MISSING
