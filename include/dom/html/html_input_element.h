@@ -117,6 +117,12 @@ dom_exception dom_html_input_element_get_value(
 dom_exception dom_html_input_element_set_value(
 	dom_html_input_element *input, dom_string *value);
 
+dom_exception dom_html_input_element_get_placeholder(
+	dom_html_input_element *input, dom_string **value);
+
+dom_exception dom_html_input_element_set_placeholdere(
+	dom_html_input_element *input, dom_string *value);
+
 dom_exception dom_html_input_element_blur(dom_html_input_element *ele);
 dom_exception dom_html_input_element_focus(dom_html_input_element *ele);
 dom_exception dom_html_input_element_select(dom_html_input_element *ele);

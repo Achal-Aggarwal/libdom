@@ -354,6 +354,7 @@ SIMPLE_GET_SET(src);
 SIMPLE_GET(type);
 SIMPLE_GET_SET(use_map);
 SIMPLE_GET_SET(value);
+SIMPLE_GET_SET(placeholder);
 
 dom_exception dom_html_input_element_get_tab_index(
 	dom_html_input_element *input, int32_t *tab_index)
